@@ -1,0 +1,228 @@
+canonical_identifier: bkk:krp/KR6i0354/v1
+canonical_location: https://kanripo.org/bkk/KR6i0354/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 解深密經疏
+  identifiers:
+    alt_id:
+    - X21n0369
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X21/X21n0369.xml
+    old_id: X21n0369
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0354_000.yaml, hash: 'sha256:7bc605390c06546bccb20e1e6f349230e0cd465952f06e8e265eff1c381f660d'}
+  - {seq: 1, filename: KR6i0354_001.yaml, hash: 'sha256:15b0144b66d5e1995e83a99525a383e06ca4a80e143289b4bef284eaff788d74'}
+  - {seq: 2, filename: KR6i0354_002.yaml, hash: 'sha256:9d54fe6ae74a5f509d4953e05b1a9be3bdb0245396c72498e9ceac690493e2ea'}
+  - {seq: 3, filename: KR6i0354_003.yaml, hash: 'sha256:0160094ffc58f118399f7d2bff959025c2b81cb77a532f8568c12e4b0b24e0a9'}
+  - {seq: 4, filename: KR6i0354_004.yaml, hash: 'sha256:5e30c1347e5fbf991b80dbb6e242ced25ce9fa532e8b8ac174c011927f1d258d'}
+  - {seq: 5, filename: KR6i0354_005.yaml, hash: 'sha256:5b3881ca4a216ed8ec147ca9f3440e6a79977887592094dd8d63a1317212eee4'}
+  - {seq: 6, filename: KR6i0354_006.yaml, hash: 'sha256:d3289dd185424f68e858c3fe5c50b257bfcb8604ca8e200bbb27dce9186ce298'}
+  - {seq: 7, filename: KR6i0354_007.yaml, hash: 'sha256:f992642eb85dd04c63c7a2b9fc04ce7242dd01118881137f26322285b1557e54'}
+  - {seq: 8, filename: KR6i0354_008.yaml, hash: 'sha256:0a4633a5bedd33e29cbf6f3d7c105a2270c5095b71056c7731b547ae244ca14a'}
+  - {seq: 9, filename: KR6i0354_009.yaml, hash: 'sha256:f7e6c4dedbe23e86336f3b6766d00d38c57185feb903b42669c0ab315c249355'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0354_001.markers.yaml, hash: 'sha256:882dbf6116d56d6b1e57d591aadf37dc4d390b4cf2cc3429a9746e2980a2319a'}
+  - {seq: 2, role: markers, filename: assets/KR6i0354_002.markers.yaml, hash: 'sha256:8abbf17dad4f0e081f0ab0f6a629fc6015e7cfc7767e247fef936d1c46da73a5'}
+  - {seq: 3, role: markers, filename: assets/KR6i0354_003.markers.yaml, hash: 'sha256:fd3f0e6025545c4247d0e19a7bcd68face3fb0f8261e15804454592b8b9ae436'}
+  - {seq: 4, role: markers, filename: assets/KR6i0354_004.markers.yaml, hash: 'sha256:56ee0020563b8655214aff0ca19539aecafb5714fe7aca4ce0af62eb0a4ef329'}
+  - {seq: 5, role: markers, filename: assets/KR6i0354_005.markers.yaml, hash: 'sha256:0a1a5c646600a4121dd73b4e49797fffd3c959204df9c3f3fdc38303cdfde0bb'}
+  - {seq: 6, role: markers, filename: assets/KR6i0354_006.markers.yaml, hash: 'sha256:50ae153a16eb8865e76c583bce11d2cda401a584d6a5f44a03b911b142a62f1f'}
+  - {seq: 7, role: markers, filename: assets/KR6i0354_007.markers.yaml, hash: 'sha256:14bb4eca9a39e8d3a484bc5683ffe739847d6c34eb89bcf030425b11832a22b9'}
+  - {seq: 8, role: markers, filename: assets/KR6i0354_008.markers.yaml, hash: 'sha256:d34b70af904556a0495d1757dd0eb4372813cbc244b53857d1a6cc6643aa9107'}
+  - {seq: 9, role: markers, filename: assets/KR6i0354_009.markers.yaml, hash: 'sha256:8fff059506cffe0d65dee4738862a8e9ebe0479d07731e45df9733d24d060242'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0354_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 解深密經疏目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0354_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 44373
+  label: 解深密經疏卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0354_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0354_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 33781
+  label: 解深密經疏卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0354_X_002-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 勝義諦相品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0354_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 29673
+  label: 解深密經疏卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0354_X_003-mulu-1
+    span:
+    - body
+    - 14087
+    - 14087
+  label: 心意識相品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0354_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 30544
+  label: 解深密經疏卷第四經本第二
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0354_X_004-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 一切法相品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0354_X_004-mulu-2
+    span:
+    - body
+    - 11056
+    - 11056
+  label: 無自性相品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0354_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 30417
+  label: 解深密經疏第五經本第二
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0354_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 39732
+  label: 解深密經疏卷第六經本第三
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0354_X_006-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 分別瑜伽品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6i0354_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 33903
+  label: 解深密經疏卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0354_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 33360
+  label: 解深經疏卷第八經本第四
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6i0354_X_008-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 地波羅蜜多品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0354_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 31255
+  label: 解深密經疏卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6i0354_X_009-mulu-1
+    span:
+    - body
+    - 24151
+    - 24151
+  label: 如來成所作事品第八
+  type: mulu
+  level: 1
+hash: sha256:75788a32a1e6a7d9bc9faf49e523c888d5c20a84cccd8c2453a17a58b6aa066d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
